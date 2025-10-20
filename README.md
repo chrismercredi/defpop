@@ -10,7 +10,7 @@ for Tokenization Research
 ## 1. Summary
 
 **DefPop** (Definition Popups) is a continuation of  
-[Dashronym](https://github.com/chrismercredi/dashronym).  
+[Dashronym](https://github.com/your-username/dashronym).  
 Dashronym explored inline definitions for humans;  
 DefPop explores how acronyms might affect *machines*.
 
@@ -93,7 +93,8 @@ handling in NLP. | Relation to DefPop hypothesis. |
 ## 6. Why Pure Dart?
 
 - Dart is awesome!
-  
+- Easy to wrap in Flutter later for visualization.
+
 ---
 
 ## 7. Ethical Position & Humility
